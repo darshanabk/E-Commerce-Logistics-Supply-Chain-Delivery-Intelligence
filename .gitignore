@@ -1,0 +1,13 @@
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated reports
+reports/*.json
+
+# Local raw data
+data/raw/
